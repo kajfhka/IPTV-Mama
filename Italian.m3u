@@ -1,90 +1,90 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-it.xml"
 
-#EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai1.png" tvg-chno="1" group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai 1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://githubusercontent.com" tvg-chno="1" group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai 1
+https://rai.it
 
-#EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai2.png" tvg-chno="2" group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai 2
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://githubusercontent.com" tvg-chno="2" group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai 2
+https://rai.it
 
-#EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai3.png" tvg-chno="3" group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai 3
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://githubusercontent.com" tvg-chno="3" group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai 3
+https://rai.it
 
-#EXTINF:-1 tvg-id="Rete4.it" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rete4.png" tvg-chno="4" group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Rete 4
+#EXTINF:-1 tvg-id="Rete4.it" tvg-logo="https://githubusercontent.com" tvg-chno="4" group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Rete 4
 https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Canale5.it" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/canale5.png" tvg-chno="5" group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Canale 5
+#EXTINF:-1 tvg-id="Canale5.it" tvg-logo="https://githubusercontent.com" tvg-chno="5" group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Canale 5
 https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Italia1.it" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/italia1.png" tvg-chno="6" group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Italia 1
+#EXTINF:-1 tvg-id="Italia1.it" tvg-logo="https://githubusercontent.com" tvg-chno="6" group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Italia 1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="La7.it" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/la7.png" tvg-chno="7" group-title="Altro":http-user-agent="",LA7
-https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
+#EXTINF:-1 tvg-id="La7.it" tvg-logo="https://githubusercontent.com" tvg-chno="7" group-title="Altro":http-user-agent="",LA7
+https://cloudfront.net
 
-#EXTINF:-1 tvg-id="Tv8.it" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/tv8.png" tvg-chno="8" group-title="Sky":http-user-agent="",TV8
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1 tvg-id="Tv8.it" tvg-logo="https://githubusercontent.com" tvg-chno="8" group-title="Sky":http-user-agent="",TV8
+https://akamaized.net
 
-#EXTINF:-1 tvg-id="Nove.it" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/nove.png" tvg-chno="9" group-title="Discovery":http-user-agent="http-user-agent=HbbTV/1.6.1",NOVE
+#EXTINF:-1 tvg-id="Nove.it" tvg-logo="https://githubusercontent.com" tvg-chno="9" group-title="Discovery":http-user-agent="http-user-agent=HbbTV/1.6.1",NOVE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
-https://d3pkcyie9gav9y.cloudfront.net/out/v1/fdb9d129ff7f4a7bbc8fe0902122e48f/HLS_CMAF_DRM/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://cloudfront.net
+https://cloudfront.net
 
-#EXTINF:-1 tvg-id="Mediaset20.it" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/20mediaset.png" tvg-chno="20" group-title="Mediaset":http-user-agent="HbbTV/1.6.1",20 Mediaset
+#EXTINF:-1 tvg-id="Mediaset20.it" tvg-logo="https://githubusercontent.com" tvg-chno="20" group-title="Mediaset":http-user-agent="HbbTV/1.6.1",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
+https://mediaset.net
 
-#EXTINF:-1 tvg-id="Rai4.it" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai4.png" tvg-chno="21" group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai 4
+#EXTINF:-1 tvg-id="Rai4.it" tvg-logo="https://githubusercontent.com" tvg-chno="21" group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai 4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+https://rai.it
 
-#EXTINF:-1 tvg-id="Iris.it" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/iris.png" tvg-chno="22" group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Iris
+#EXTINF:-1 tvg-id="Iris.it" tvg-logo="https://githubusercontent.com" tvg-chno="22" group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Iris
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
+https://mediaset.net
 
-#EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai5.png" tvg-chno="23" group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai 5
+#EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://githubusercontent.com" tvg-chno="23" group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+https://rai.it
 
-#EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/raimovie.png" tvg-chno="24" group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai Movie
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://githubusercontent.com" tvg-chno="24" group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai Movie
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+https://rai.it
 
-#EXTINF:-1 tvg-id="RaiPremium.it" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/raipremium.png" tvg-chno="25" group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai Premium
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-logo="https://githubusercontent.com" tvg-chno="25" group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai Premium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
+https://rai.it
 
-#EXTINF:-1 tvg-id="CieloTv.it" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/cielo.png" tvg-chno="26" group-title="Sky":http-user-agent="",Cielo
+#EXTINF:-1 tvg-id="CieloTv.it" tvg-logo="https://githubusercontent.com" tvg-chno="26" group-title="Sky":http-user-agent="",Cielo
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+https://akamaized.net
 
-#EXTINF:-1 tvg-id="Mediaset27Twentyseven.it" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/twentyseven.png" tvg-chno="27" group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Twenty Seven
+#EXTINF:-1 tvg-id="Mediaset27Twentyseven.it" tvg-logo="https://githubusercontent.com" tvg-chno="27" group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Twenty Seven
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
+https://mediaset.net
 
-#EXTINF:-1 tvg-id="TV2000.it" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/tv2000.png" tvg-chno="28" group-title="Altro":http-user-agent="",TV2000
-https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:-1 tvg-id="TV2000.it" tvg-logo="https://githubusercontent.com" tvg-chno="28" group-title="Altro":http-user-agent="",TV2000
+https://akamaized.net
 
-#EXTINF:-1 tvg-id="La7D.it" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/LA7Cinema.png" tvg-chno="29" group-title="Altro":http-user-agent="HbbTV/1.6.1",LA7 Cinema
-https://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd
+#EXTINF:-1 tvg-id="La7D.it" tvg-logo="https://githubusercontent.com" tvg-chno="29" group-title="Altro":http-user-agent="HbbTV/1.6.1",LA7 Cinema
+https://cloudfront.net
 
-#EXTINF:-1 tvg-id="LA5.it" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/la5.png" tvg-chno="30" group-title="Mediaset":http-user-agent="HbbTV/1.6.1",La 5
+#EXTINF:-1 tvg-id="LA5.it" tvg-logo="https://githubusercontent.com" tvg-chno="30" group-title="Mediaset":http-user-agent="HbbTV/1.6.1",La 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
+https://mediaset.net
 
-#EXTINF:-1 tvg-id="RealTime.it" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/realtime.png" tvg-chno="31" group-title="Discovery":http-user-agent="HbbTV/1.6.1",Real Time
+#EXTINF:-1 tvg-id="RealTime.it" tvg-logo="https://githubusercontent.com" tvg-chno="31" group-title="Discovery":http-user-agent="HbbTV/1.6.1",Real Time
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
-https://d2op4s24rubfe0.cloudfront.net/out/v1/54acbe71ddae4c9986c03fad1352bc84/HLS_CMAF_DRM/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://cloudfront.net
+https://cloudfront.net
 
-#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/foodnetwork.png" tvg-chno="33" group-title="Discovery":http-user-agent="",Food Network
+#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-logo="https://githubusercontent.com" tvg-chno="33" group-title="Discovery":http-user-agent="",Food Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
-https://d9kc4bu8iry3b.cloudfront.net/out/v1/dcecf7d9fd2b49c59e85a65016ddc255/HLS_CMAF_DRM/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://cloudfront.net
+https://cloudfront.net
 
-#EXTINF:-1 tvg-id="Cine34.it" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/cine34.png" tvg-chno="34" group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Cine34
+#EXTINF:-1 tvg-id="Cine34.it" tvg-logo="https://githubusercontent.com" tvg-chno="34" group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Cine34
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
+https://mediaset.net
 
-#EXTINF:-1 tvg-id="Focus.it" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/focus.png" tvg-chno="35" group-title="Mediaset":http-user-agent="HbbTV/1.6.1",FOCUS
+#EXTINF:-1 tvg-id="Focus.it" tvg-logo="https://githubusercontent.com" tvg-chno="35" group-title="Mediaset":http-user-agent="HbbTV/1.6.1",FOCUS
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
+https://mediaset.net
