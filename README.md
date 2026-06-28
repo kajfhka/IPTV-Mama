@@ -1,5 +1,4 @@
-# IPTV-Mama
-IPTVITALIA
+IPTV-Mama
 # IPTV-Mama 🇮🇹  
 [![Version](https://img.shields.io/badge/version-26.5.15-blue.svg)](https://github.com/maginetweb-arch/TVITALIA)  
 
