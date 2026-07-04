@@ -1,6 +1,6 @@
 IPTV-Mama
 # IPTV-Mama 🇮🇹  
-[![Version](https://img.shields.io/badge/version-26.5.15-blue.svg)](https://github.com/maginetweb-arch/TVITALIA)  
+[![Version](https://img.shields.io/badge/version-26.5.15-blue.svg)](https://github.com/kajfhka/IPTV-Mama)  
 
 iptvit Lista dei canali tv in chiaro italiani
 
