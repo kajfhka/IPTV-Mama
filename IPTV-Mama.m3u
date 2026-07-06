@@ -90,9 +90,7 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/p
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
 
 #EXTINF:-1 tvg-id="GialloTV.it"tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/giallo.png"tvg-chno="38"group-title="Discovery":http-user-agent="",Giallo
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://d180olzqm6iw12.cloudfront.net/drm/v2/license?drm-type=widevine
-https://pb-vi6d4mucmrwpo.akamaized.net/index.m3u8
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
 
 #EXTINF:-1 tvg-id="TopCrime.it"tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/topcrime.png"tvg-chno="39"group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Top Crime
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
