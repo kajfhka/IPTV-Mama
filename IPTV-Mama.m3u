@@ -274,6 +274,5 @@ https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai 3 TGR Molise"tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/rai3tgrmolise.png"tvg-chno="1"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Molise
 https://tgrmolise-live.akamaized.net/hls/live/2025568/tgrmolise/tgrmolise/playlist.m3u8
 
-#EXTM3U
 #EXTINF:-1 tvg-id="Rai 3 TGR Molise" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/rai3tgrmolise.png" tvg-chno="1" group-title="Rai",Rai 3 TGR Molise
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72387&output=7&forceUserAgent=raiplayappletv
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72387&output=16&forceUserAgent=raiplayappletv
