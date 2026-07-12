@@ -228,10 +228,10 @@ https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="Pluto TV" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/plutotv.png" tvg-chno="807" group-title="Altro",Pluto Film TV
 https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8
 
-#EXTINF:-1 tvg-id="Tele Molise" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/TeleMolise.png" tvg-chno="11" group-title="Rai",Tele Molise
+#EXTINF:-1 tvg-id="Tele Molise" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/TeleMolise.png" tvg-chno="11" group-title="Altro",Tele Molise
 http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TLT Molise" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/TLTMolise.png" tvg-chno="77" group-title="Rai",TLT Molise
+#EXTINF:-1 tvg-id="TLT Molise" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/TLTMolise.png" tvg-chno="77" group-title="Altro",TLT Molise
 https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rai 3 TGR Molise" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/rai3tgrmolise.png" tvg-chno="817" group-title="Rai",Rai 3 TGR Molise
