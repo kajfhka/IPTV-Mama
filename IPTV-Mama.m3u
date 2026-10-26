@@ -4,7 +4,7 @@
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7|User-Agent=raiplayandroidtv
 
 #EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/rai2.png" tvg-chno="2" group-title="Rai",Rai 2
-https://raidue1-live.akamaized.net/hls/live/598310/raidue1/raidue1/playlist_ma_1800-3600.m3u8?hdnea=st=1792982784~exp=1792982934~acl=/*~hmac=17ef499792c668f687dcee6b8ed6ca1ccb980ce529ef384c208f2322e4628c2b
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv|User-Agent=Kodi
 
 #EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://raw.githubusercontent.com/kajfhka/IPTV-Mama/refs/heads/main/TVL/rai3.png" tvg-chno="3" group-title="Rai",Rai 3
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7|User-Agent=raiplayandroidtv
